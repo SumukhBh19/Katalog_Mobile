@@ -70,6 +70,8 @@ lib/
 - Android Studio / VS Code with Flutter plugin
 - Python ≥ 3.9 (for the backend — see `requirements.txt`)
 
+Requires Gradle 8.13 and Kotlin 1.9.24 for Flutter 3.41 compatibility.
+
 ### Flutter Setup
 
 ```bash
